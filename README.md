@@ -1,4 +1,4 @@
-# React Todo
+# Dog List
 
 A [React](https://reactjs.org/) app that will display dogs.
 
